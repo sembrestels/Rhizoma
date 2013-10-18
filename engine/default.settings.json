@@ -1,0 +1,7 @@
+{
+    "dbname": "",
+    "dbhost": "localhost",
+    "dbuser": "",
+    "dbpassword": "",
+    "dbprefix": "rhizoma_"
+}

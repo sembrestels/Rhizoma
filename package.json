@@ -1,0 +1,14 @@
+{
+    "name": "Rhizoma",
+    "version": "0.0.0",
+    "description": "Elgg clone in Javascript",
+    "dependencies": {
+        "q": "latest",
+        "express": "latest",
+        "mysql": "latest",
+        "lru-cache": "latest",
+        "underscore": "latest",
+        "vows": "latest",
+    },
+    "author": "Lorea Developers"
+}
